@@ -59,6 +59,6 @@ Achievements and Extracurricular Activities
 * Top 10% from Centre in National Standard Examination in Physics (High school); 2009 -2010
 * Won 1st prize in Stokism by I.I.T. Kanpur; 2012.
 * Member of Rotaract Club- Affiliated to Rotary East-Bhopal; 2010-2014
- * Tutoring curriculums to underprivileged school children at free of cost and guide them to secure better future through
+ 1. Tutoring curriculums to underprivileged school children at free of cost and guide them to secure better future through
 education.
- * Organized and managed participating candidates in different events during cultural and technical festivals held at Institute.
+ 2. Organized and managed participating candidates in different events during cultural and technical festivals held at Institute.
