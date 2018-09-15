@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ANSHUL SUNGRA- Robotics Researcher/Crazy guy exploring and doing crazy things by taking risks"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
