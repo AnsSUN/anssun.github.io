@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Mechanical Engineering (Robotics), University of Washington, Seattle
+  * Date: June 2019 (expected)
+  * Advisor: Professor Brian Fabien
+* B.Tech. in Mechanical Engineering, National Institute of Technology, Bhopal
+  * Date: November 2014 
+  * Senior Thesis: DESIGN AND FABRICATION OF MICRO TURBINE
+  * Advisor: Professor Rajesh Gupta
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Team Member for Advanced Driving Assistance Systems (ADAS), Feb. 2018 - Present
+  * UW EcoCAR
+  1. Learned and fulfilled the requirements to detect brake light of different vehicles through Computer Vision algorithm   using combination of C++ and MatLab.
+  2. Obtained good quality of vehicle detection by reducing the clustered bounding boxes .
+  * Advisor: Professor Brian Fabien
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Engineer
+  * L&T Technology Services Limited
+    * Design Engineer for Airbus Helicopters 
+      1. Completed eccentric shaft mechanism design by assisting in Concept Design of Helicopter Test bench in CATIA V5.
+      2. Attained over 90% productivity on complex sheet-metal, assembly drawings such as assembly drawing of electrical equipment installation structure in cockpit respecting Airbus standards.
+
+    * Equipment Model Manager
+      1. Obtained over 98% productivity for verification and validation of suppliers 3-D C.A.D. Models (in CATIA V5 and PDMLINK CC)with respect to specialzation and its functional requirements such as Galley installation while placing in the compartments.
+      2. Created Space Allocation 3D-CAD Models for different systems and provided Technical Validation support of 3-D C.A.D. Models.
+  * Project Manager: Gururaj Kulkarni
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MatLab
+* C++
+* Python
+* Robot Operating System (ROS)
+* CATIA-V5, Creo-Parametric
+* Product Data Management 
+* Virtual Product Management (Enovia-VPM)
 
 Publications
 ======
@@ -42,18 +54,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Achievements and Extracurricular Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Top 10% from Centre in National Standard Examination in Physics (High school); 2009 -2010
+* Won 1st prize in Stokism by I.I.T. Kanpur; 2012.
+* Member of Rotaract Club- Affiliated to Rotary East-Bhopal; 2010-2014
+ * Tutoring curriculums to underprivileged school children at free of cost and guide them to secure better future through
+education.
+ * Organized and managed participating candidates in different events during cultural and technical festivals held at Institute.
