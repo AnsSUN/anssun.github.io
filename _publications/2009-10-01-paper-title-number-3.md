@@ -12,4 +12,4 @@ This paper is about the performance analysis of an microturbine which we develop
 
 [Download paper here](https://www.novapublishers.com/catalog/product_info.php?products_id=54069)
 
-Recommended citation: A Saraf, A Sungra, R Gupta (2015). "PERFORMANCE ANALYSIS OF AN AIR OPERATED MICROTURBINE." <i>Journal of Sustainable Manufacturing and Renewable Energy 3</i>. (1/2), 129-138.
+Recommended citation: [A Saraf](https://www.linkedin.com/in/aman-saraf-75a3b367/), A Sungra, [R Gupta](http://www.manit.ac.in/content/dr-rajesh-gupta) (2015). "PERFORMANCE ANALYSIS OF AN AIR OPERATED MICROTURBINE." <i>Journal of Sustainable Manufacturing and Renewable Energy 3</i>. (1/2), 129-138.
