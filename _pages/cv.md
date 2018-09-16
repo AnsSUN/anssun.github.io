@@ -13,11 +13,11 @@ Education
 ======
 * M.S. in Mechanical Engineering (Robotics), [University of Washington, Seattle](http://www.washington.edu/)
   * Date: June 2019 (expected)
-  * Advisor: Professor Brian Fabien
+  * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 * B.Tech. in Mechanical Engineering, [National Institute of Technology, Bhopal](http://www.manit.ac.in/)
   * Date: November 2014 
   * Senior Thesis: DESIGN AND FABRICATION OF MICRO TURBINE
-  * Advisor: Professor Rajesh Gupta
+  * Advisor: Professor [Rajesh Gupta](http://www.manit.ac.in/content/dr-rajesh-gupta)
 
 Work experience
 ======
@@ -56,9 +56,9 @@ Publications
   
 Achievements and Extracurricular Activities
 ======
-* Top 10% from Centre in National Standard Examination in Physics (High school); 2009 -2010
-* Won 1st prize in Stokism by I.I.T. Kanpur; 2012.
-* Member of Rotaract Club- Affiliated to Rotary East-Bhopal; 2010-2014
+* Top 10% from Centre in [National Standard Examination in Physics](http://www.iapt.org.in/index.php/exams/nse/nsep.html) (High school); 2009 -2010
+* Won 1st prize in Stokism by [I.I.T. Kanpur](http://www.iitk.ac.in/); 2012.
+* Member of Manit Bhopal Rotaract Club - Affiliated to [Rotary East-Bhopal](https://my.rotary.org/en/club-profile/27657374-5EAE-4415-8FDF-40670F13BC45); 2010-2014
   * Tutoring curriculums to underprivileged school children at free of cost and guide them to secure better future through
 education.
   * Organized and managed participating candidates in different events during cultural and technical festivals held at Institute.
