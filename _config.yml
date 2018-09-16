@@ -239,14 +239,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _Courses
-  - scope:
-      path: ""
-      type: Courses
-    values:
-      layout: courses
-      author_profile: true
-      share: true
+  
 
 # Sass/SCSS
 sass:
