@@ -21,6 +21,20 @@ Courses from educational institutions and paticipation in [MOOC](https://en.wiki
 * Linear Systems Theory (ME 547)
 * Mechanical Engineering Analysis-I & II (ME 564-565)
 
+[Coursera](https://www.coursera.org/)
+======
+* [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/FN9EZFY46VME)
+* [Algorithm](https://www.coursera.org/account/accomplishments/specialization/certificate/XW2U5XYP6QEQ)
+  * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/M5HYWKE5DLTG)
+  * [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/RK38WS77L2DM)
+  * [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/certificate/33BA8ZQDSRS9)
+  * [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/account/accomplishments/certificate/XY8H5C6W5CE3)
+  
+[Udemy](https://www.udemy.com/)
+======
+* [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/certificate/UC-KOWUGDDO/)
+
+
 [National Institute  of Technology, Bhopal](http://www.manit.ac.in/) (Some Relevant Courses)
 ======
 * Computer Programming (CS 101)
@@ -38,16 +52,4 @@ Courses from educational institutions and paticipation in [MOOC](https://en.wiki
 * Industrial Management (HUM 421)
 * Computational Fluid Dynamics (ME 459)
 
-[Coursera](https://www.coursera.org/)
-======
-* [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/FN9EZFY46VME)
-* [Algorithm](https://www.coursera.org/account/accomplishments/specialization/certificate/XW2U5XYP6QEQ)
-  * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/M5HYWKE5DLTG)
-  * [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/RK38WS77L2DM)
-  * [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/certificate/33BA8ZQDSRS9)
-  * [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/account/accomplishments/certificate/XY8H5C6W5CE3)
-  
-[Udemy](https://www.udemy.com/)
-======
-* [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/certificate/UC-KOWUGDDO/)
 
