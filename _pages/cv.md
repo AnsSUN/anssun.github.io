@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mechanical Engineering (Robotics), University of Washington, Seattle
+* M.S. in Mechanical Engineering (Robotics), [University of Washington, Seattle](http://www.washington.edu/)
   * Date: June 2019 (expected)
   * Advisor: Professor Brian Fabien
-* B.Tech. in Mechanical Engineering, National Institute of Technology, Bhopal
+* B.Tech. in Mechanical Engineering, [National Institute of Technology, Bhopal](http://www.manit.ac.in/)
   * Date: November 2014 
   * Senior Thesis: DESIGN AND FABRICATION OF MICRO TURBINE
   * Advisor: Professor Rajesh Gupta
@@ -22,21 +22,21 @@ Education
 Work experience
 ======
 * Team Member for Advanced Driving Assistance Systems (ADAS), Feb. 2018 - Present
-  * UW EcoCAR
+  * [UW EcoCAR](http://ecocar3.org/washington/about-us/)
   1. Learned and fulfilled the requirements to detect brake light of different vehicles through Computer Vision algorithm   using combination of C++ and MatLab.
   2. Obtained good quality of vehicle detection by reducing the clustered bounding boxes .
-  * Advisor: Professor Brian Fabien
+  * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 
 * Engineer
-  * L&T Technology Services Limited
-    * Design Engineer for Airbus Helicopters 
+  * Deputed to [Airbus India](https://www.airbus.com/company/worldwide-presence/india.html) on behalf of [L&T Technology Services Limited](https://www.lnttechservices.com/)
+    * Design Engineer for [Airbus Helicopters](https://www.airbus.com/helicopters.html) 
       1. Completed eccentric shaft mechanism design by assisting in Concept Design of Helicopter Test bench in CATIA V5.
       2. Attained over 90% productivity on complex sheet-metal, assembly drawings such as assembly drawing of electrical equipment installation structure in cockpit respecting Airbus standards.
 
     * Equipment Model Manager
       1. Obtained over 98% productivity for verification and validation of suppliers 3-D C.A.D. Models (in CATIA V5 and PDMLINK CC)with respect to specialzation and its functional requirements such as Galley installation while placing in the compartments.
       2. Created Space Allocation 3D-CAD Models for different systems and provided Technical Validation support of 3-D C.A.D. Models.
-  * Project Manager: Gururaj Kulkarni
+  * Project Manager: [Gururaj Kulkarni](https://www.linkedin.com/in/gururaj-kulkarni-12149219/)
   
 Skills
 ======
