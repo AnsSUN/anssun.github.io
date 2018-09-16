@@ -9,8 +9,8 @@ main:
   - title: "Courses"
     url: /courses/
     
-  - title: "non-menu-page"
-    url: /non-menu-page/
+  #- title: "non-menu-page"
+   # url: /non-menu-page/
 
   #- title: "Teaching"
    # url: /teaching/    
