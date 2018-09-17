@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-Coming Soon.  
+Coming Soon with crazy ideas.  
 <!---
 (To disable scheduling of future posts, edit `config.yml` and set `future: false.)
 -->
