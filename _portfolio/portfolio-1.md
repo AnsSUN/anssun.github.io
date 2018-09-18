@@ -1,0 +1,15 @@
+---
+title: "Reinforcement Learning in grid-world"
+excerpt: "Solving Gridworld problems with Q-learning process.<br/><img src='Gridworld_Photo.png'> <br/> Gridworld environment for the project."
+
+collection: portfolio
+---
+
+
+1. Created grid world environment through pygame package and optimizing the motion of agent through modified q-learning process.
+
+2. Achieved best possible path for agent by updating its states randomly at each grids/position to reach its final goal.
+
+<br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/-nXH8k9gRLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+Please checkout github [repository for code](https://github.com/AnsSUN/Reinf.-Learn.-gridworld-project).
