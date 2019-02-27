@@ -15,6 +15,7 @@ Courses from educational institutions and paticipation in [MOOC](https://en.wiki
 * [Machine Learning (CSE 546)](https://courses.cs.washington.edu/courses/cse546/18au/)
 * Autonomous Robotics (ME 599)
 * [Computer Vision (CSE 576)](https://courses.cs.washington.edu/courses/cse576/18sp/)
+* Introduction to Parallel Computing (ME 574)
 * Markov Decision Process (INDE 599)
 * Robotics Manipulation (EE 543)
 * Digital Control (ME 581)
