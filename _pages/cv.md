@@ -23,10 +23,12 @@ Education
 
 Work experience
 ======
-* Team Member for Advanced Driving Assistance Systems (ADAS), Feb. 2018 - Present
-  * [UW EcoCAR](http://ecocar3.org/washington/about-us/)
-  1. Learned and fulfilled the requirements to detect brake light of different vehicles through Computer Vision algorithm   using combination of C++ and MatLab.
-  2. Obtained good quality of vehicle detection by reducing the clustered bounding boxes .
+* Researcher for Connected Automated Vehicle (CAV), Feb. 2018 - Present
+  * [UW EcoCAR](https://avtcseries.org/ecocar-mobility-challenge/teams/university-of-washington/about-us/)
+   1. Working on Adaptive Cruise Control Algorithm, Vehicle to Vehicle Communication and lane keeping through 
+perception for smart and autonomous driving to increase the safety of passengers. 
+  2. Learned and fulfilled the requirements to detect brake light of different vehicles through Computer Vision algorithm   using combination of C++ and MatLab.
+  3. Obtained good quality of vehicle detection by reducing the clustered bounding boxes .
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 
 * Engineer
