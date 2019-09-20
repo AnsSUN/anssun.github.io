@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.S. in Mechanical Engineering (Robotics), [University of Washington, Seattle](http://www.washington.edu/)
-  * Date: June 2019 (expected)
+  * Date: December 2019 (expected)
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 * B.Tech. in Mechanical Engineering, [National Institute of Technology, Bhopal](http://www.manit.ac.in/)
   * Date: November 2014 
@@ -24,9 +24,8 @@ Education
 Work experience
 ======
 * Researcher for Connected Automated Vehicle (CAV), Feb. 2018 - Present
-  * [UW EcoCAR](https://avtcseries.org/ecocar-mobility-challenge/teams/university-of-washington/about-us/)
-   1. Working on Adaptive Cruise Control Algorithm, Vehicle to Vehicle Communication and lane keeping through 
-perception for smart and autonomous driving to increase the safety of passengers. 
+  * [UW EcoCAR](https://uwecocarcom.wixsite.com/website)
+   1. Working on Adaptive Cruise Control Algorithm, with sensor fusion of different sensor information for smart and autonomous driving to increase the safety of passengers. 
   2. Learned and fulfilled the requirements to detect brake light of different vehicles through Computer Vision algorithm   using combination of C++ and MatLab.
   3. Obtained good quality of vehicle detection by reducing the clustered bounding boxes .
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
