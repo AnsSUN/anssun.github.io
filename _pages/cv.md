@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.S. in Mechanical Engineering (Robotics), [University of Washington, Seattle](http://www.washington.edu/)
-  * Date: December 2019 (expected)
+  * Date: December 2019
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 * B.Tech. in Mechanical Engineering, [National Institute of Technology, Bhopal](http://www.manit.ac.in/)
   * Date: November 2014 
@@ -25,9 +25,9 @@ Work experience
 ======
 * Researcher for Connected Automated Vehicle (CAV), Feb. 2018 - Present
   * [UW EcoCAR](https://uwecocarcom.wixsite.com/website)
-   1. Working on Adaptive Cruise Control Algorithm, with sensor fusion of different sensor information for smart and autonomous driving to increase the safety of passengers. 
-  2. Learned and fulfilled the requirements to detect brake light of different vehicles through Computer Vision algorithm   using combination of C++ and MatLab.
-  3. Obtained good quality of vehicle detection by reducing the clustered bounding boxes .
+   1. Developed and implemented Proportional (P), Proportional-Integral (PI) and Model Predictive Control (MPC) for mobile robots to maintain the safe distance by varying the velocity. It involves detections from the camera, rotating Laser sensor which sensor fused them to localize the robot for longitudinal autonomy. Velocity is estimated through Kalman Filter from distance sensors. MPC is more aggressive than P and PI control algorithms. 
+  2. Developed a sophisticated system in C++/MatLab to detect brake-light of different vehicles through Computer Vision algorithm like convex hull with specific RGB and HSV parameters at different environmental conditions.
+  3. Co-developed a precise vehicle detection system using C++/MatLab by training it through vehicle data-set and eliminate false negatives to obtain very good results.
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 
 * Engineer
