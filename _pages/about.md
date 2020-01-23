@@ -16,4 +16,4 @@ Outside of my coursework at the University of Washington, I have experience work
 
 I believe these experiences provide me an edge to solve technical driven problems of “robotics” in a different perspective. Doing this I hope I contribute and make a difference for the society. As the world is changing very rapidly, these technological advancements require some of the different domains of knowledge to solve problems in the right way.
 
-You can contact me at my E-mail ID: anshulsungra@gmail.com or asungra@uw.edu, and if you want to know more about me, please check my Linkedln profile(https://www.linkedin.com/in/anshul-sungra/).
+You can contact me at my E-mail ID: anshulsungra@gmail.com or asungra@uw.edu, and if you want to know more about me, please check my [Linkedln profile](https://www.linkedin.com/in/anshul-sungra/).
