@@ -27,7 +27,7 @@ Work experience
   * [UW EcoCAR](https://uwecocarcom.wixsite.com/website)
    1. Developed and implemented Proportional (P), Proportional-Integral (PI) and Model Predictive Control (MPC) for mobile robots to maintain the safe distance by varying the velocity. It involves detections from the camera, rotating the Laser sensor which sensor fused them to localize the robot for longitudinal autonomy. Devised Kalman Filter for the system which successfully accomplished the objective of the research. 
   2. Engineered a sophisticated system in C++/MatLab to detect brake-light of different vehicles through Computer Vision algorithm like convex hull with specific RGB and HSV parameters which resulted to work in different environmental conditions.
-  3. Co-developed a precise vehicle detection system using C++/MatLab by training it through vehicle data-set and eliminate false negatives which achieved about 90% confidence score.
+  3. Co-developed a precise vehicle detection system using C++/MatLab by training it through vehicle data-set and eliminate false negatives which achieved about 90$\%$ confidence score.
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 
 * Engineer
@@ -37,7 +37,7 @@ Work experience
       2. Created complex sheet-metal, assembly drawings such as assembly drawing of electrical equipment installation structure in cockpit respecting Airbus standards which exceeded 90$\%$ productivity on deliverables.
 
     * Equipment Model Manager
-      1. Completed verification and validation of supplier’s 3--D C.A.D. Models (in CATIA V5 and PDMLINK CC) concerning specification and its functional requirements such as Galley installation while placing in the compartments which attained over 98% productivity.
+      1. Completed verification and validation of supplier’s 3--D C.A.D. Models (in CATIA V5 and PDMLINK CC) concerning specification and its functional requirements such as Galley installation while placing in the compartments which attained over 98$\%$ productivity.
       2. Created extra Space Allocation 3D-CAD Models for different systems and Technical Validation support of 3--D C.A.D. Models to increase the revenue of the company.
   * Project Manager: [Gururaj Kulkarni](https://www.linkedin.com/in/gururaj-kulkarni-12149219/)
   
@@ -59,7 +59,7 @@ Publications
   
 Achievements and Extracurricular Activities
 ======
-* Top 10% from Centre in [National Standard Examination in Physics](http://www.iapt.org.in/index.php/exams/nse/nsep.html) (High school); 2009 -2010
+* Top 10$\%$ from Centre in [National Standard Examination in Physics](http://www.iapt.org.in/index.php/exams/nse/nsep.html) (High school); 2009 -2010
 * Won 1st prize in Stokism by [I.I.T. Kanpur](http://www.iitk.ac.in/); 2012.
 * Member of Manit Bhopal Rotaract Club - Affiliated to [Rotary East-Bhopal](https://my.rotary.org/en/club-profile/27657374-5EAE-4415-8FDF-40670F13BC45); 2010-2014
   * Tutoring curriculums to underprivileged school children at free of cost and guide them to secure better future through
