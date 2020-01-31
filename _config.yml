@@ -245,7 +245,6 @@ defaults:
       author_profile: true
       share: true
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=cFW9miOe5JCKs3kPWMXlC565caGHTGD--09uWxHfIVA"></script>  
 
 # Sass/SCSS
 sass:
