@@ -25,9 +25,9 @@ Work experience
 ======
 * Researcher for Connected Automated Vehicle (CAV), Feb. 2018 - Present
   * [UW EcoCAR](https://uwecocarcom.wixsite.com/website)
-   1. Developed and implemented Proportional (P), Proportional-Integral (PI) and Model Predictive Control (MPC) for mobile robots to maintain the safe distance by varying the velocity. It involves detections from the camera, rotating the Laser sensor which sensor fused them to localize the robot for longitudinal autonomy. Devised Kalman Filter for the system which successfully accomplished the objective of the research. 
-  2. Engineered a sophisticated system in C++/MatLab to detect brake-light of different vehicles through Computer Vision algorithm like convex hull with specific RGB and HSV parameters which resulted to work in different environmental conditions.
-  3. Co-developed a precise vehicle detection system using C++/MatLab by training it through vehicle data-set and eliminate false negatives which achieved about 90$%$ confidence score.
+   1. Developed and implemented Proportional (P), Proportional-Integral (PI) and Model Predictive Control (MPC) for mobile robots to maintain the safe distance by varying the velocity with ROS. It involves detections from the camera, rotating the Laser sensor which sensor fused them to localize the robot for longitudinal autonomy. Devised Kalman Filter for the system which successfully accomplished the objective of the research. 
+  2. Engineered a sophisticated system in MatLab to detect brake-light of different vehicles through Computer Vision algorithm like convex hull with specific RGB and HSV parameters which resulted to work in different environmental conditions.
+  3. Co-developed a precise vehicle detection system using MatLab by training it through vehicle data-set and eliminate false negatives which achieved about 90$%$ confidence score.
   * Advisor: Professor [Brian Fabien](https://www.me.washington.edu/people/faculty/brian_fabien)
 
 * Engineer
