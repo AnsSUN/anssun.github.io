@@ -1,16 +1,16 @@
 ---
-title: "PERFORMANCE ANALYSIS OF AN AIR OPERATED MICROTURBINE"
+title: "Different control strategies for Mobile Robots"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the performance analysis of an microturbine which we developed to scavange the waste energy through compressed exhaust gas and generate electricity. This was the initial iteration product of an impulse microturbine. This had efficiency of 4 to 5 percent. After so many iterations in design, its efficiency would increase and can be use as a small portable energy generating device.'
+permalink: /publication/2020-MS_thesis
+excerpt: 'In this research, the following (ego) vehicle was maintaining a safe relative distance by varying the velocity through different controllers to catch up with the lead vehicle. Two major sensors were used, a rotating Laser Distance Sensor (LDS) and an RGB camera sensor. The camera sensor operated as a secondary system and was used to improve the detection probability of the lead vehicle. A sensor fusion algorithm was used for localizing the ego vehicle which includes a detection clustering algorithm and a Kalman filter to estimate the relative distance between the two vehicles. The sensors were calibrated for the test conditions to obtain detections with in feasible limits. Different controllers such as Proportional, Proportional-Integral, and Model Predictive Control were implemented and validated both in simulation and experiment on the turtlebot3-burger robot.'
 date: 2015 June
-venue: 'Journal of Sustainable Manufacturing and Renewable Energy 3'
-paperurl: 'https://www.novapublishers.com/catalog/product_info.php?products_id=54069'
-citation: 'A Saraf, A Sungra, R Gupta (2015). &quot;PERFORMANCE ANALYSIS OF AN AIR OPERATED MICROTURBINE.&quot; <i>Journal of Sustainable Manufacturing and Renewable Energy 3</i>. (1/2), 129-138.'
+venue: 'Department of Mechanical Engineering, University of Washington, Seattle'
+paperurl: 'http://hdl.handle.net/1773/45224'
+citation: 'Sungra, Anshul (2019). &quot;Different control strategies for Mobile Robots.&quot '
 ---
-This paper is about the performance analysis of an microturbine which we developed to scavange the waste energy through compressed exhaust gas and generate electricity. This was the initial iteration product of an impulse microturbine. This had efficiency of 4 to 5 percent. After so many iterations in design, its efficiency would increase and can be use as a small portable energy generating device.
+In this research, the following (ego) vehicle was maintaining a safe relative distance by varying the velocity through different controllers to catch up with the lead vehicle. Two major sensors were used, a rotating Laser Distance Sensor (LDS) and an RGB camera sensor. The camera sensor operated as a secondary system and was used to improve the detection probability of the lead vehicle. A sensor fusion algorithm was used for localizing the ego vehicle which includes a detection clustering algorithm and a Kalman filter to estimate the relative distance between the two vehicles. The sensors were calibrated for the test conditions to obtain detections with in feasible limits. Different controllers such as Proportional, Proportional-Integral, and Model Predictive Control were implemented and validated both in simulation and experiment on the turtlebot3-burger robot.
 
-[Download paper here](https://www.novapublishers.com/catalog/product_info.php?products_id=54069)
+[Download paper here](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/45224/Sungra_washington_0250O_20889.pdf?sequence=1&isAllowed=y)
 
-Recommended citation: [A Saraf](https://www.linkedin.com/in/aman-saraf-75a3b367/), A Sungra, [R Gupta](http://www.manit.ac.in/content/dr-rajesh-gupta) (2015). "PERFORMANCE ANALYSIS OF AN AIR OPERATED MICROTURBINE." <i>Journal of Sustainable Manufacturing and Renewable Energy 3</i>. (1/2), 129-138.
+Recommended citation: Sungra, Anshul  (2019). "Different control strategies for Mobile Robots".
 
