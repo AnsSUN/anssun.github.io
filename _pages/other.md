@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "CV"
@@ -8,7 +9,6 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-
 <!-- {% include base_path %} -->
 
 Education
