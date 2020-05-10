@@ -9,7 +9,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
