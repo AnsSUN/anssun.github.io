@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 1199-01-01
+title: 'Past Blog Post'
+date: 1999-01-01
 permalink: /posts/2012/08/blog-post/
 tags:
   - cool posts
