@@ -6,11 +6,11 @@ excerpt: 'This paper describes the implementation of various algorithms to contr
 date: 2020 November
 venue: 'ASME 2020 International Mechanical Engineering Congress and Exposition (IMECE2020)'
 paperurl: 'https://asme.pinetec.com/imece2020/'
-citation: 'Sungra, Anshul (2019). &quot;Different control strategies for Mobile Robots. &quot;'
+citation: 'A Sungra, B Fabien (2020). &quot;EVALUATION OF CONTROL ALGORITHMS ON MOBILE ROBOTS FOR COLLISION AVOIDANCE.&quot; <i>ASME 2020 International Mechanical Engineering Congress and Exposition (IMECE2020)</i>.'
 ---
 In this research, the ego vehicle was maintaining a safe relative distance by varying the velocity to catch up with the lead vehicle. A rotating Laser Distance Sensor (LDS) and an RGB camera were used to detect the objects in the environment. To localize the ego vehicle, a detection clustering algorithm and a Kalman filter was used to estimate the relative distance between the two vehicles. Different controllers such as Proportional, Proportional-Integral, and Model Predictive Control were implemented and validated through experiment on the turtlebot3-burger robot.
 
 [Download paper here](https://asme.pinetec.com/imece2020/)
 
-Recommended citation: Sungra, Anshul  (2019). Different control strategies for Mobile Robots".
+Recommended citation: A Sungra, [B Fabien](https://www.up.edu/academics/faculty-profiles/brian-fabien.html) (2020). "EVALUATION OF CONTROL ALGORITHMS ON MOBILE ROBOTS FOR COLLISION AVOIDANCE" <i>ASME 2020 International Mechanical Engineering Congress and Exposition (IMECE2020)</i>.
 
