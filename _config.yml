@@ -9,10 +9,10 @@
 #theme                    : minimal-mistakes-jekyll
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 locale                   : "en-US"
-title                    : "Anshul Sungra/ Robo-ANSH"
+title                    : "Anshul Sungra"
 title_separator          : "-"
 name                     : &name "Anshul Sungra"
-description              : &description "Robotics Researcher"
+description              : &description "Exploring Robotics"
 url                      : https://anssun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AnsSUN/anssun.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Anshul Sungra"
   avatar           : "profile.png"
-  bio              : "Robotics Researcher, I believe robotics can change the world."
+  bio              : "Exploring Robotics research and applications to change the world."
   location         : "Boston, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lcNMGdkAAAAJ"
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
